@@ -3,10 +3,10 @@ Yoshow Project aims to contribute to the democratization of audio podcasts for t
 
 ## Internal definitions
 ### A yoshow
-is a radio or audio show with several epidodes and a public RSS feed.
+is a radio or audio show with several episodes and a public yofeed.
 ### A yoep
-is an episode of a radio show, compressed in a classical audio format: mp3, oggvorbis, mp4, aac...
+is an episode of a yoshow, compressed in a classical audio format: mp3, oggvorbis, mp4, aac...
 ### A yofeed
-is a flow of yoep, a ranked list of links toward audio files, in a standard RSS podcast format.
+is a flow of yoep, ie a text file with a ranked list of links toward audio files, written in a standard RSS podcast format.
 
 To be continued...
